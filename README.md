@@ -1,5 +1,6 @@
 ### がんばるます。
-[![c299mi's GitHub stats]https://github-readme-stats.vercel.app/api?username=c299mi&show_icons=true](https://github.com/v/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=c299mi)
+
 
 [![Top Langs]https://github-readme-stats.vercel.app/api?username=c299mi&count_private=true](https://github.com/c299mi/github-readme-stats)
 <!--
